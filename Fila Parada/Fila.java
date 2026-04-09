@@ -1,5 +1,7 @@
 import java.lang.reflect.*;
 
+/* Fila Parada */
+
 public class Fila <X> implements Cloneable
 {
     private Object[]    elemento; // private X[] elemento;
