@@ -29,7 +29,7 @@ public class Main {
                 imprimirLabirinto(matriz);
                 System.out.println("-----------------------------");
 
-                Thread.sleep(500);
+                Thread.sleep(150);
             }
 
             
